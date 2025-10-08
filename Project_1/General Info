@@ -1,0 +1,27 @@
+Project 1: Simple game using Python
+ General Workflow for All Groups
+
+Groups: 3-5 people
+Each team must:
+Describe the game in human language (it could be your readme file)
+What is the overall description
+What are the rules
+Who are the players: human-human, computer-human
+Design the Game Flow 
+Create a flowchart describing the game logic.
+Test it on someone
+Implement the Game
+Analyze the tasks to be done
+Split the tasks
+Write the Python code to implement the game.
+Do not forget comments for all the code
+Test the Game:
+ Create a few use cases to be tested (Vanilla case and edge cases to be included)
+Test your game
+Deploy and Document: 
+Update or create (if it was not done at Step 1) your documentation
+Ensure your project is added to GitHub and forked by all team members
+Demo: Prepare to present your game 
+Code should work, 
+As well as all the team should know what’s going on.
+Presentation - up to 5 min
