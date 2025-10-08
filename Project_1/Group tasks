@@ -1,0 +1,88 @@
+Group 1. Tic Tac Toe
+Rules: Two players mark X and O on a 3×3 board. The first to align 3 of their marks horizontally, vertically, or diagonally wins.
+Steps:
+Represent the board using a 2D list.
+Implement turn switching.
+Check for win/draw conditions after each move.
+Display the board after every move.
+Extra: 
+what if user entered wrong symbol?
+Up to users to decide how many games to play
+
+Group 2. Rock, Paper, Scissors
+Rules: Two players (or one vs computer). Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
+Steps:
+Accept player inputs.
+Generate the computer's move randomly.
+Compare choices and declare a winner.
+Add a loop to allow multiple rounds.
+Extra: 
+what if we have 3 players
+Up to users to decide how many games to play
+
+
+Group 3.  Number Guessing Game
+Rules: Computer selects a random number. The player tries to guess it. The game gives hints ("Too high", "Too low").
+Steps:
+Use random.randint to generate a number.
+Use input to get guesses.
+Count attempts and print success message when correct.
+Optional: Let the player select difficulty (range of numbers).
+Extra: 
+what if we have 2 players
+Up to users to decide how many games to play
+
+Group 4. Hangman
+Rules: One player (or computer) chooses a word, and the other guesses one letter at a time. Wrong guesses reduce lives.
+Steps:
+Use a list of words (or allow user to input a word).
+Display underscores for unguessed letters.
+Keep track of used letters and remaining attempts.
+Win when all letters are guessed; lose when lives are zero.
+Extra: 
+what if a player put a number
+Up to users to decide how many games to play
+
+
+
+Group 5. Memory Matching Game (Text Version)
+Rules: Player sees a set of hidden pairs. Flipping two cards that match earns points.
+Steps:
+Use a 2D array or list of hidden elements.
+Randomize positions of pairs (like [A, B, A, B]).
+Let user select two positions; reveal if they match.
+Keep score and track matched cards.
+Extra: 
+User entering wrong formats
+Up to users to decide how many games to play
+
+
+Group 6. Coin Toss Game
+Rules: Guess heads or tails.
+Steps:
+Player guess
+Generate a toss
+Random coin result
+Compare 
+Display outcome
+Extra: 
+Track wins/losses over rounds.
+Two players
+
+Group 7. Dice Roller Simulator
+Rules: Roll a virtual die and compare the results with user guess
+Steps:
+Player guess
+Generate a due result
+Compare 
+Display outcome
+Extra: 
+Use two dices and sum the result
+Two users: winner is with bigger number
+
+
+
+
+
+
+
