@@ -80,6 +80,20 @@ Extra:
 Use two dices and sum the result
 Two users: winner is with bigger number
 
+Group 8. Password check _ taken
+Rules: User types the password and we need to check if password matches the requirements
+Steps:
+User inputs a password
+Check if: 
+More than 8 symbols
+At least one capital
+At least one number
+Display outcome
+Extra: 
+Special symbols check
+No duplicate symbols
+
+
 
 
 
